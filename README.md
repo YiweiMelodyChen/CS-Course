@@ -5,5 +5,5 @@
 
 ## OSSU
 
-**in the OSSU folder, I take some Moocs listed in [OSSU]: https://github.com/ossu/computer-science.**
+**In the OSSU folder, I take some Moocs listed in [OSSU]( https://github.com/ossu/computer-science).**
 
