@@ -1,9 +1,9 @@
 # CS-Course  
-**This is a repository to records the cs-course I take.**
+**This is a repository records the cs-course I take.**
 
 **Because I am not a cs major student, so all the course material is from Internet.**
 
 ## OSSU
 
-**In the OSSU folder, I take some Moocs listed in [OSSU]( https://github.com/ossu/computer-science).**
+**The studying materials for the Moocs listed in [OSSU]( https://github.com/ossu/computer-science) are in OSSU folder.**
 
